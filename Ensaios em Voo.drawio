@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-24T18:33:34.640Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="Zjvn4HuNJixbpCNKGbie" version="22.0.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-10-24T18:34:26.480Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="8OLQlDwsH9aVA5SqGoPu" version="22.0.6" type="github" pages="2">
   <diagram name="MACRO" id="29nsO5dNZJTcKLzGv9PE">
     <mxGraphModel dx="1290" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -245,6 +245,12 @@
           <mxGeometry x="0.0682" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="40kJXBl8dqoz3_yB_v7O-36" value="Informação de Voo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="k9P9UyaFmFALSVfuuK0S-4">
+          <mxGeometry x="35" y="80" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="40kJXBl8dqoz3_yB_v7O-37" value="Horizontal Container" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="630" width="980" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
