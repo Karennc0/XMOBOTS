@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-24T18:43:24.164Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="JeIkifC6crAParmjgM7r" version="22.0.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-10-24T18:44:04.905Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="CscChznI2VRsFvhYhQDO" version="22.0.6" type="github" pages="2">
   <diagram name="MACRO" id="29nsO5dNZJTcKLzGv9PE">
     <mxGraphModel dx="1290" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -246,7 +246,7 @@
         <mxCell id="40kJXBl8dqoz3_yB_v7O-37" value="Piloto" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="630" width="1240" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="7TvzAImDAECQtP68gyTs-5" value="Fazer Voo conforme cartão de Voo" style="whiteSpace=wrap;html=1;fillColor=#CCE5FF;rounded=1;" vertex="1" parent="40kJXBl8dqoz3_yB_v7O-37">
+        <mxCell id="7TvzAImDAECQtP68gyTs-5" value="Fazer Voo conforme Plano de Voo" style="whiteSpace=wrap;html=1;fillColor=#CCE5FF;rounded=1;" vertex="1" parent="40kJXBl8dqoz3_yB_v7O-37">
           <mxGeometry x="756" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7TvzAImDAECQtP68gyTs-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="40kJXBl8dqoz3_yB_v7O-26" target="7TvzAImDAECQtP68gyTs-5">
