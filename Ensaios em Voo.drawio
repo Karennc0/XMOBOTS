@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-24T18:26:06.798Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="3Bm_QFgmt2U_WiJyDvYt" version="22.0.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-10-24T18:27:19.585Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="jY-8HvnbjzccoA6n5YQ0" version="22.0.6" type="github" pages="2">
   <diagram name="MACRO" id="29nsO5dNZJTcKLzGv9PE">
     <mxGraphModel dx="1290" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -185,13 +185,14 @@
         <mxCell id="40kJXBl8dqoz3_yB_v7O-13" value="Ir ao local de teste" style="whiteSpace=wrap;html=1;fillColor=#CCE5FF;rounded=1;" vertex="1" parent="k9P9UyaFmFALSVfuuK0S-4">
           <mxGeometry x="455" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="40kJXBl8dqoz3_yB_v7O-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="k9P9UyaFmFALSVfuuK0S-4" source="40kJXBl8dqoz3_yB_v7O-15">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="620" y="360" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="40kJXBl8dqoz3_yB_v7O-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="k9P9UyaFmFALSVfuuK0S-4" source="40kJXBl8dqoz3_yB_v7O-15" target="40kJXBl8dqoz3_yB_v7O-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="40kJXBl8dqoz3_yB_v7O-15" value="Montar estrutura e aeronave (checklist de montagem e cartão TO)" style="whiteSpace=wrap;html=1;fillColor=#CCE5FF;rounded=1;" vertex="1" parent="k9P9UyaFmFALSVfuuK0S-4">
+        <mxCell id="40kJXBl8dqoz3_yB_v7O-15" value="Montar estrutura e aeronave" style="whiteSpace=wrap;html=1;fillColor=#CCE5FF;rounded=1;" vertex="1" parent="k9P9UyaFmFALSVfuuK0S-4">
           <mxGeometry x="455" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="40kJXBl8dqoz3_yB_v7O-19" value="Fazer Checklist de Montagem e Cartão TO" style="whiteSpace=wrap;html=1;fillColor=#CCE5FF;rounded=1;" vertex="1" parent="k9P9UyaFmFALSVfuuK0S-4">
+          <mxGeometry x="620" y="330" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
